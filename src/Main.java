@@ -10,7 +10,6 @@ public class Main {
         int potatoes = 5; // картофелин
         int chicken = 6; // куриных бёдер
         int spices = 10; // ложек специй
-
         System.out.println("Сварили суп. На одного человека вышло:");
         System.out.println((water / eaters) + " миллилитров(а) воды");
         System.out.println((potatoes / eaters) + " картофелин(а/ы)");
